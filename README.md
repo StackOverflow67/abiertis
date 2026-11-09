@@ -1,4 +1,5 @@
 # abiertis
+![El logo de Abiertis](assets/logo.png)
 Abiertis es un pequeño programa que vive entre la entrada de satelite y reproductor final. Este programa extrae y decodifica paquetes de TDTSAT en Hispasat, usando claves proporcionadas por el usuario, devolviendo un paquete .TS limpio interno. Estos son los mismos paquetes que llegan a los repetidores de TDT de casi toda España (Menos Andalucia y Pais Vasco (Estos usan repetidores basados en redes terrestres en vez de satelites))
 
 # Declaración de uso de IA
